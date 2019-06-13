@@ -13,6 +13,7 @@ package com.jiyun;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("lalallalal");
+        System.out.println("asdasd");
     }
 
 }
