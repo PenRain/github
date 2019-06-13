@@ -15,5 +15,4 @@ public class GitTest {
         System.out.println("lalallalal");
         System.out.println("asdasd");
     }
-
 }
